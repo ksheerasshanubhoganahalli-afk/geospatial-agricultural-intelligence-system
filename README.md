@@ -36,7 +36,6 @@
   - [Soil Moisture Evaporation Predictor](#soil-moisture-evaporation-predictor)
 - [Key Features](#key-features)
 - [Environment Variables](#environment-variables)
-- [License](#license)
 
 ---
 
