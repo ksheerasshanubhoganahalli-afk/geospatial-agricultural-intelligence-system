@@ -529,10 +529,6 @@ The model then projects moisture levels 24h and 72h forward, factoring in rainfa
 
 ---
 
-## License
-
-MIT
-
 ---
 
 <div align="center">
